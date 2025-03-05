@@ -1,2 +1,16 @@
-# Flutter-SuperMarket-App
-Supermarket App is a mobile application developed with Flutter that allows users to browse products, add them to their cart, and place orders seamlessly. The app features an intuitive UI, product categorization, and a smooth checkout process.
+# flutter_supermarket_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
